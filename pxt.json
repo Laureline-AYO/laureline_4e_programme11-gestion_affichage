@@ -1,5 +1,6 @@
 {
     "name": "Laureline_4E_Programme11-Gestion_Affichage",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
